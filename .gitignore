@@ -242,4 +242,7 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
+# Project runtime data files
+data/**
+
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle,jetbrains,intellij
